@@ -46,7 +46,7 @@ For any issues, suggestions, or feature requests:
 This project is released under the **MIT License**. You are free to modify and distribute it as per the license terms.
 
 ---
-**Author:** [Your Name]  
-**Contact:** [Your Email]  
-**Company:** [Your Company Name]
+**Author:** Shaik Shajid  
+**Contact:** shaikson7@gmail.com 
+
 
